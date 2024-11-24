@@ -21,4 +21,4 @@ These scripts were written as hands-on practice exercises to apply theoretical c
 
 ## Notes  
 
-- The **"SQL for Data Analysis"** course on Udacity includes a range of topics like SQL joins, aggregations, subqueries, window functions, and performance tuning. This repository currently reflects only the foundational concepts that I have practiced, with plans for future additions as I progress through the course.  
+- The **"SQL for Data Analysis"** course on Udacity includes a range of topics like SQL joins, aggregations, subqueries, window functions, and performance tuning. This repository currently reflects only the foundational concepts that I have practiced, with plans for future additions as I progress through the course. I started the  course on Sun, 10th March 2024, 10:08:30 AM... still currently on it as time permits.
